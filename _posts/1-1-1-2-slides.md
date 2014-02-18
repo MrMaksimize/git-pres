@@ -74,40 +74,40 @@ Differences from CVS
 * GitHub allows for hosting of Static Pages
 * Allows you to run websites on the fastest servers in the world.
 
-# For Free {% fragment %}
+# For Free
 
 ---
 
 ## Let's Play
-* AKA I dont wanna talk anymore {% fragment %}
+* AKA I dont wanna talk anymore
 
 --
 
 ## Something Simple
 
 Create a home page for yourself on GitHub
-* username.github.io repo {% fragment %}
-* index.html {% fragment %}
+* username.github.io repo
+* index.html
 
 ---
 
 ## But you don't wanna hand write HTML do ya?
-* You want to use markdown {% fragment %}
-* Jekyll lets you write markdown and will autogenerate HTML {% fragment %}
-* Push and Build {% fragment %}
-* Github Standard {% fragment %}
+* You want to use markdown
+* Jekyll lets you write markdown and will autogenerate HTML
+* Push and Build
+* Github Standard
 
 ---
 
 ## Get Ready for some Jekyll Love
-* `gem install jekyll` {% fragment %}
-* `git clone git@github.com:CoquiCoders/puerto-rico-ideas.git` {% fragment %}
-* `jekyll serve --watch` {% fragment %}
-* `http://localhost:4000` {% fragment %}
+* `gem install jekyll`
+* `git clone git@github.com:CoquiCoders/puerto-rico-ideas.git`
+* `jekyll serve --watch`
+* `http://localhost:4000`
 
 --
 
 Puerto Rico Ideas
 What's an idea you've had to make things better in PR;
-{% fragment %}
+
 
