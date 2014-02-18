@@ -1,3 +1,8 @@
-## Welcome
+## Git / GitHub / GitHub Pages
 
-Welcome to the jekyll-reveal.js example presentation.
+Maksim Pecherskiy
+
+@MrMaksimize
+
+Code For America
+
