@@ -86,7 +86,8 @@ Differences from CVS
 ## Something Simple
 
 Create a home page for yourself on GitHub
-* username.github.io repo
+
+* username.github.io repository
 * index.html
 
 ---
