@@ -101,13 +101,36 @@ Create a home page for yourself on GitHub
 
 ## Get Ready for some Jekyll Love
 * `gem install jekyll`
-* `git clone git@github.com:CoquiCoders/puerto-rico-ideas.git`
+* fork
+* `git clone git@github.com:<USERNAME>/puerto-rico-ideas.git`
 * `jekyll serve --watch`
 * `http://localhost:4000`
 
 --
 
-Puerto Rico Ideas
-What's an idea you've had to make things better in PR;
+## Get Ready for some Puerto Rico Love
+* Separate into groups
+* Each group edit one of the following files
+  *  Economic Development
+  *  Tech Community
+  *  Education
+  *  Awesomeness
+* Holla when you're done!
 
+---
+
+## Conclusion
+* Git is about 2 things:
+  * Understanding the system
+  * Practice
+
+---
+
+#Love Git
+##It will love you back.
+
+---
+
+##Resources
+* http://bit.ly/gh-paref
 
